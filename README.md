@@ -10,7 +10,7 @@
 ## Finished Projects:
 | Name | Description |
 | ----------- | ----------- |
-| [Grocery Receipt Association Rule Mining]([https://github.com/Pskavs/100daysofcode](https://github.com/Pskavs/Apriori_Grocery_Receipts/blob/master/grocery_list_apropri_algorithm.ipynb)) | Discovered hidden relationships between items that shoppers often buy together. |
+| [Grocery Receipt Association Rule Mining](https://github.com/Pskavs/Apriori_Grocery_Receipts/blob/master/grocery_list_apropri_algorithm.ipynb) | Discovered hidden relationships between items that shoppers often buy together. |
 - 📫 How to reach me: pskavs@gmail.com
 
 ## About Me
