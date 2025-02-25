@@ -11,6 +11,8 @@
 | Name | Description |
 | ----------- | ----------- |
 | [Grocery Receipt Association Rule Mining](https://github.com/Pskavs/Apriori_Grocery_Receipts/blob/master/grocery_list_apropri_algorithm.ipynb) | Discovered hidden relationships between items that shoppers often buy together. |
+| [Sparrowcard Sentiment Analysis](https://github.com/Pskavs/SparrowcardSentimentAnalysis/blob/master/sparrowcard_reviews_analysis.ipynb)| Uses webscraping and sentiment analysis on Credit Karma reviews |
+
 - 📫 How to reach me: pskavs@gmail.com
 
 ## About Me
@@ -24,9 +26,5 @@ Outside of work and school, I enjoy weightlifting, playing guitar, Jiu Jitsu, sp
 
 Ultimately, I want to do work that matters. This could be helping a team, solving difficult problems, or contributing to something better than myself.
 
-## Blog Posts
-- https://medium.com/@pskavs/finding-hope-in-nevada-schools-2d17702a5eef
-- https://medium.com/@pskavs/40-100-days-of-code-coding-my-way-through-winter-break-ceac27138693
-- https://medium.com/@pskavs/python-projects-from-personalized-letters-to-flashcards-in-just-7-days-0f0fd46fd076
-- https://medium.com/@pskavs/100-days-of-code-16-23-objects-snakes-and-turtles-oh-my-fd8c1c4be94d
-- https://medium.com/@pskavs/100-days-of-code-days-1-15-beginner-no-longer-e659af476782
+## Blog
+- https://medium.com/@pskavs
