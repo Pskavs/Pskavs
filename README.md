@@ -13,7 +13,7 @@
 | ----------- | ----------- |
 | [Grocery Receipt Association Rule Mining](https://github.com/Pskavs/Apriori_Grocery_Receipts/blob/master/grocery_list_apropri_algorithm.ipynb) | Discovered hidden relationships between items that shoppers often buy together. |
 | [Sparrowcard Sentiment Analysis](https://github.com/Pskavs/SparrowcardSentimentAnalysis/blob/master/sparrowcard_reviews_analysis.ipynb)| Uses webscraping and sentiment analysis on Credit Karma reviews |
-| [Emergency Room Simulation]([https://github.com/Pskavs/hope4nevadaschools/tree/main](https://github.com/Pskavs/HospitalSimulationProject))| Creating a simulation of an Emergency Room to test for best possible staff numbers.|
+| [Emergency Room Simulation](https://github.com/Pskavs/HospitalSimulationProject)| Creating a simulation of an Emergency Room to test for best possible staff numbers.|
 
 - 📫 How to reach me: pskavs@gmail.com
 
