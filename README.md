@@ -20,7 +20,7 @@
 ## About Me
 Hello World! My name’s Christian, and I’ve always been someone that loves a good challenge. Whether it is leading a group of marines, teaching a classroom full of 8 year olds, or diving into complex data sets, I’ve discovered that my best work comes to me when I’m solving problems. 
 
-Over the last 15 years, I’ve had a wide assortment of experiences: Marine, Teacher, Accountant, Analyst, Web Developer, and now aspiring data scientist. Each job I’ve held has taught me something unique, and all together they have given me a strong foundation in leadership, adaptability, resilience (those 8 year olds definitely can be overstimulating), and a love of data. If there is a way to make life better through spreadsheets, data visualizations, or teamwork, I’m your guy!
+Over the last 15 years, I’ve had a wide assortment of experiences: Marine, Teacher, Accountant, Web Developer, and now business analyst. Each job I’ve held has taught me something unique, and all together they have given me a strong foundation in leadership, adaptability, resilience (those 8 year olds definitely can be overstimulating), and a love of data. If there is a way to make life better through spreadsheets, data visualizations, or teamwork, I’m your guy!
 
 Currently I’m studying Analytics at Georgia Institute of Technology. I’m learning about machine learning, data modeling, and programming with Python, R, and SQL. I am also working diligently through Angela Yu’s 100 Days of Code, because why stop at one way of growth? I believe that we should constantly strive to improve, whether it is learning new skills or refining old ones. 
 
